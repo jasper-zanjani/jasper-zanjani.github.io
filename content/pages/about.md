@@ -9,4 +9,4 @@ I used to not know how to code at all. Now I kind of know how to code some thing
 
 [Link](https://www.google.com/)
 [my_sweet_photo]: {filename}/images/image.jpg
-![Image]({static}/images/image.jpg) 
+![Image]({filename}/images/image.jpg) 
